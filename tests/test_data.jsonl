@@ -1,0 +1,6 @@
+{"text": "Simple text line 1."}
+{"text": "Simple text line 2."}
+{"messages": [{"role": "user", "content": "Hello, how are you?"}, {"role": "assistant", "content": "I am fine, thank you."}]}
+{"messages": [{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "Translate 'apple' to Japanese."}, {"role": "assistant", "content": "りんご"}]}
+{"prompt": "What is the capital of France?", "response": "Paris"}
+{"prompt": "Write a haiku.", "response": "Old pond,\nFrog jumps in,\nSound of water."}
